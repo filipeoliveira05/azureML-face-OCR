@@ -6,7 +6,7 @@ Este repositório contém um projeto de **Reconhecimento Facial e OCR (Reconheci
 ## 📂 Estrutura do Repositório
 ```
 📁 inputs/   -> Contém as imagens utilizadas para reconhecimento facial e OCR
-📁 output/   -> Resultados extraídos das imagens (JSON, CSV, TXT, etc.)
+📁 output/   -> Resultados extraídos das imagens (JSON)
 📄 readme.md -> Documentação do processo e insights
 ```
 
