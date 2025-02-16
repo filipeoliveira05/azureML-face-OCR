@@ -29,7 +29,7 @@ Este repositório contém um projeto de **Reconhecimento Facial e OCR (Reconheci
 
 ### 4️⃣ Salvando os Resultados
 - As imagens usadas são armazenadas na pasta `inputs/`.
-- Os dados extraídos (detecção facial e OCR) são armazenados em `output/` no formato JSON ou CSV.
+- Os dados extraídos (detecção facial e OCR) são armazenados em `output/` no formato JSON.
 
 ## 📊 Insights e Possibilidades
 ✅ **Automatização de Processos** → Identificação de rostos e extração de informações em larga escala.
