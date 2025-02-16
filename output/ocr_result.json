@@ -1,0 +1,18 @@
+{
+    "image": "ocr_text.jpg",
+    "detected_text": [
+      {
+        "text": "Northwind Traders",
+        "bounding_box": [50, 20, 300, 60]
+      },
+      {
+        "text": "Fresh produce, friendly service",
+        "bounding_box": [55, 80, 400, 120]
+      },
+      {
+        "text": "Open 7 days a week",
+        "bounding_box": [60, 140, 280, 180]
+      }
+    ]
+  }
+  

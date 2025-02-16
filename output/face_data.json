@@ -1,0 +1,24 @@
+{
+    "image": "face_detection.jpg",
+    "faces_detected": [
+      {
+        "bounding_box": {
+          "x": 120,
+          "y": 80,
+          "width": 150,
+          "height": 150
+        },
+        "confidence": 0.98
+      },
+      {
+        "bounding_box": {
+          "x": 300,
+          "y": 100,
+          "width": 140,
+          "height": 140
+        },
+        "confidence": 0.95
+      }
+    ]
+  }
+  
